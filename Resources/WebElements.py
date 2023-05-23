@@ -1,5 +1,3 @@
-
-
 COMPLETED_TAB                   =   "xpath: //a[normalize-space()='Completed']"
 ADD_ITEM_TAB                    =   "xpath: //a[normalize-space()='Add Item']"
 TO_DO_TASKS_TAB                 =   "xpath: //a[normalize-space()='To-Do Tasks']"
