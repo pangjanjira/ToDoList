@@ -7,4 +7,3 @@ DELETE_BUTTON_COMPLETED         =   "xpath: //li[@class='mdl-list']//button[@id=
 CHECK_LIST                      =   "xpath: //label[@for='1']//span[@class='mdl-checkbox__ripple-container mdl-js-ripple-effect mdl-ripple--center']"
 DELETE_BUTTON_TO_DO_TASKS       =   "xpath: //ul[@id='incomplete-tasks']//button[@id='1']"
 ITEM_LABEL                      =   "xpath: //label[@for='1']"
-
