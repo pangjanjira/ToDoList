@@ -10,7 +10,3 @@ Home page should be load element
     Wait Until Page Contains Element         ${COMPLETED_TAB}
     Wait Until Page Contains Element         ${INPUT_TEXT_FIELD}
     Wait Until Page Contains Element         ${ADD_BUTTON}
-
-
-
-
